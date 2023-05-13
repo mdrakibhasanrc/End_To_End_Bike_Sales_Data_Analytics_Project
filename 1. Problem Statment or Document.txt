@@ -1,0 +1,31 @@
+================== Problem Statement===========================
+
+As a stakeholder and owner of a Bike Company, a potential data analytics problem statement could be:
+
+"How can we optimize our product offerings and pricing strategies to maximize profit based on customer demographics and purchase behavior?"
+
+To address this problem, the following data analytics questions could be explored:
+
+Which age groups and genders are our most frequent customers, and what are their purchasing patterns?
+
+Which product categories and sub-categories generate the most revenue and profit for the company?
+
+Are there any geographic trends or patterns in customer behavior, such as certain states or countries having a higher demand for certain products?
+
+How does the unit cost of a product affect its profitability, and is there an optimal pricing strategy that maximizes revenue while minimizing costs?
+
+By analyzing and understanding customer demographics and purchasing behavior, the Bike Company can make data-driven decisions to optimize their product offerings and pricing strategies to maximize profits.
+
+
+
+
+================== About Dataset=====================================================
+
+
+In Europe bikes dataset , Extract the insight of sales in each country
+and each state of their countries.
+
+In this dataset 18 columns and main column is sales , in this columns
+Extract the value bale and meaningful insight from it
+Sales According to male and female or Products
+number of each product and its sales and so on.
