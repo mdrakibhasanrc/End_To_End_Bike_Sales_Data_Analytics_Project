@@ -1,2 +1,2 @@
 # End_To_End_Bike_Sales_Data_Analytics_Project
-I made a plan to project my portfolio where there would be end to end Data Analytics projects and I would use all the tools.
+The goal of this project is to perform data analytics on Bike Sales data using various tools and technologies, including GCP Storage, Python, Google Sheets, Data Modelling Using Looker Stuio, Mage Data Pipeline Tool, BigQuery, and Tableau.
